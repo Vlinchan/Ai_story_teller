@@ -102,6 +102,17 @@ Built by **Vlinchan**
 
 ---
 
+## Modification and need some help
+
+You guys can modify my code like if you want to generate a movie like story you can do it using this.. try to increase your token sizes based on your 
+GPU computing power... Mine was GTX 1650 it can generate around 400-500 Tokens of word in 1-2 minutes.. if you guys have any good GPU's then You can also 
+generate even more words even more stories and Chapter wise things like that.. I need Help I'm trying to build it like an application type for my personal uses 
+and if you want to help then you can help me... I wanted build a Beatiful UI and all for this project so help me with that guys... 
+
+if some of you guys can provide me an intership then i am ready to work with you guys... all i need is a stiped intership that's it i can work as a free lancer and full time one....
+
 ## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
+
+
